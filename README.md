@@ -3,7 +3,14 @@
 **Tunisia Airplane** is a modern web application developed using **Angular** for the frontend and **Spring Boot** for the backend. The application is secured with **Keycloak**, an open-source Single Sign-On (SSO) provider, ensuring secure and seamless login functionality for users.
 
 ---
+## Demo Video
+Watch the application in action:
 
+[![Tunisia Airplane Demo](demo_thumbnail.png)](./demo.mp4)
+
+Click the image above or [download the demo video](./demo.mp4) to view the application in action.
+
+---
 ## Key Features
 - **Frontend**: Angular framework for building a responsive and dynamic user interface.
 - **Backend**: Spring Boot framework for managing business logic and database interactions.
@@ -14,16 +21,7 @@
   - Role-based access control.
   - Secure token generation and validation.
 
-![Keycloak Logo](https://www.keycloak.org/resources/images/keycloak_logo_480x108.png)
-
----
-
-## Demo Video
-Watch the application in action:
-
-[![Tunisia Airplane Demo](demo_thumbnail.png)](./demo.mp4)
-
-Click the image above or [download the demo video](./demo.mp4) to view the application in action.
+![Keycloak Logo](https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_of_Keycloak.svg)
 
 ---
 
