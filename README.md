@@ -8,7 +8,6 @@ Watch the application in action:
 
 [![Tunisia Airplane Demo](demo_thumbnail.png)](./demo.mp4)
 
-Click the image above or [download the demo video](./demo.mp4) to view the application in action.
 
 ---
 ## Key Features
