@@ -6,7 +6,10 @@
 ## Demo Video
 Watch the application in action:
 
-[![Tunisia Airplane Demo](demo_thumbnail.png)](./demo.mp4)
+
+
+https://github.com/user-attachments/assets/a284b4ef-0e0f-4c20-9c8a-1526e4eddc54
+
 
 
 ---
