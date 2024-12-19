@@ -1,6 +1,6 @@
 # Tunisia Airplane Project
 
-**Tunisia Airplane** is a modern web application developed using **Angular** for the frontend and **Spring Boot** for the backend. The application is secured with **Keycloak**, an open-source Single Sign-On (SSO) provider, ensuring secure and seamless login functionality for users.
+**Tunisia Airplane** is a simple CRUD web application developed using **Angular** for the frontend and **Spring Boot** for the backend. The application is secured with **Keycloak**, an open-source Single Sign-On (SSO) provider, ensuring secure and seamless login functionality for users.
 
 ---
 ## Demo Video
