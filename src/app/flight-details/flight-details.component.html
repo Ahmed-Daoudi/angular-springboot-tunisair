@@ -1,0 +1,21 @@
+<h2>Flight Details</h2> 
+
+<hr/>
+<div *ngIf="flight">
+  <div>
+    <label><b>Depart Time: </b></label> {{flight.departTime}}
+  </div>
+  <div>
+    <label><b>Depart Country: </b></label> {{flight.depart}}
+  </div>
+  <div>
+    <label><b>Destination Country: </b></label> {{flight.destination}}
+  </div>  
+  <div>
+    <label><b>Flight Type: </b></label> {{flight.flightType}}
+  </div>  
+</div>
+
+<br>
+<br>
+<button (click)="list()" class="btn btn-primary">Back to Flight List</button><br>

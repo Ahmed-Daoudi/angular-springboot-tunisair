@@ -1,0 +1,33 @@
+<nav class="navbar navbar-expand-sm" style="background-color: #3d3d3d; font-size: 20px;">
+  <div class="container-fluid"> 
+    <ul class="nav navbar-nav" style="margin-left: 20px;">
+      <a class="navbar-brand" href="#" style="color: #ffffff; font-size: 35px;">TunisAire</a> 
+      <li class="nav-item" style="margin-left: 20px; margin-top: 12px;">
+        <a routerLink="flights" routerLinkActive="active" class="nav-link" style="color: #ffffff; text-decoration: underline;">Flight List</a>
+      </li>
+      <li class="nav-item" style="margin-top: 12px;">
+        <a routerLink="create-flight" routerLinkActive="active" class="nav-link" style="color: #ffffff; text-decoration: underline;">Add New Flight</a>
+      </li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li>
+        <button type="button" (click)="logout()" class="btn btn-light" style="background-color: #f8f9fa; color: #343a40; border-color: #f8f9fa; font-size: 18px; padding: 12px 24px; margin-right: 60px;">Logout</button>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+
+<h1 class="text-center" style="font-size: 36px; color: #3d3d3d; margin-top: 20px; margin-bottom: 70px; text-transform: uppercase; letter-spacing: 2px;">Manage Your Flight</h1>
+
+
+<div class="container">
+  <!-- <app-flight-list></app-flight-list> -->
+  <router-outlet></router-outlet>
+</div>
+
+<footer class="footer" style="background-color: #3d3d3d; ">
+  <div class="container">
+    <span>All Rights Reserved 2023</span>
+  </div>
+</footer>
